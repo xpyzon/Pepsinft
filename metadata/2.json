@@ -1,0 +1,19 @@
+{
+  "name": "Pepsi Zero Sugar",
+  "description": "Pepsi Zero Sugar NFT - All the taste, zero sugar",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWfqBjdBSydJKCu46sHjCVrbWphUArwzBaJeVagJdksOXrvLRTnh8EZSLzgBQZ66t93uczNTPJn2W15znuPo-8zYFcq_n8d4tg5xIpMkRQw&s=10",
+  "attributes": [
+    {
+      "trait_type": "Flavor",
+      "value": "Zero Sugar"
+    },
+    {
+      "trait_type": "Brand",
+      "value": "Pepsi"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ]
+}
