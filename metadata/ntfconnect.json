@@ -1,12 +1,3 @@
-Of course. Here is the corrected sentence with more natural and clear English:
-
-**"This is your official NFT claim ticket. To complete the minting process and receive your reward immediately, you must pay a network gas fee. Once paid, the NFT will be sent directly to your wallet."**
-
-***
-
-### Here is the full, updated metadata for clarity:
-
-```json
 {
   "name": "NFT Connect Claim Ticket",
   "description": "This is your official NFT claim ticket. To complete the minting process and receive your reward immediately, you must pay a network gas fee. Once paid, the NFT will be sent directly to your wallet.",
