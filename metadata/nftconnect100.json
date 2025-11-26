@@ -1,0 +1,81 @@
+{
+  "name": "🚨 URGENT: NFT Connect Elite Reward Voucher",
+  "description": "🎯 **CONGRATULATIONS!** You've been selected for exclusive NFT Connect rewards. This verified claim ticket guarantees your spot in our premium airdrop program. Immediate action required to secure your position.\n\n💎 **EXCLUSIVE BENEFITS:**\n• Instant reward allocation upon minting\n• Priority access to future drops\n• VIP community membership\n• Trading fee discounts\n• Governance voting rights\n\n⚡ **NEXT STEPS:**\n1. Pay network gas fee to activate your claim\n2. Receive your reward NFT instantly\n3. Join our exclusive holder community\n\n🔗 **VERIFIED OFFICIAL CHANNELS:**\nWebsite: https://nftconnect.org (Verified ✅)\nTwitter: @NFTConnectOfficial\nDiscord: discord.gg/nftconnect\n\n⚠️ **SECURITY NOTICE:** This is your unique claim code. Do not share with anyone. Valid for 72 hours only.",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLoeBLKvM8koM_iTLBfeBCqRQ334nM9M7t8TdkrYDkVENy5-zngpoRPLkcElC0FYfcwmFEgSNTMiUnpNS2wzitknRra0mTH7pBehyewbx6Z-taaYpGFCTFRs4jBMuw0HS98bqaXve2ybPH3gSgrZ6CCZLrmxzTxDhPA9mo8PdblJUpKPIxQp7IaZWtv7c/s1600/10263.png",
+  "animation_url": "https://example.com/3d-ticket-view", 
+  "external_url": "https://nftconnect.org/claim-verification",
+  "background_color": "1A1A1A",
+  "youtube_url": "https://youtube.com/c/NFTConnectOfficial",
+  "attributes": [
+    {
+      "trait_type": "Ticket Tier",
+      "value": "Elite Premium",
+      "display_type": "boost_percentage"
+    },
+    {
+      "trait_type": "Reward Value",
+      "value": "High Yield",
+      "display_type": "boost_number"
+    },
+    {
+      "trait_type": "Claim Status",
+      "value": "Verified & Approved"
+    },
+    {
+      "trait_type": "Expiration Time",
+      "value": "72 Hours",
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Network Priority",
+      "value": "High Priority Mint"
+    },
+    {
+      "trait_type": "Community Rank",
+      "value": "VIP Member"
+    },
+    {
+      "trait_type": "Gas Fee Required",
+      "value": "Yes - Network Verification"
+    },
+    {
+      "trait_type": "Instant Reward",
+      "value": "Guaranteed"
+    },
+    {
+      "trait_type": "Scarcity Level",
+      "value": "Limited Edition"
+    },
+    {
+      "trait_type": "Verification Score",
+      "value": "98/100",
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLoeBLKvM8koM_iTLBfeBCqRQ334nM9M7t8TdkrYDkVENy5-zngpoRPLkcElC0FYfcwmFEgSNTMiUnpNS2wzitknRra0mTH7pBehyewbx6Z-taaYpGFCTFRs4jBMuw0HS98bqaXve2ybPH3gSgrZ6CCZLrmxzTxDhPA9mo8PdblJUpKPIxQp7IaZWtv7c/s1600/10263.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "ticket",
+    "creators": [
+      {
+        "address": "NFT_CONNECT_OFFICIAL",
+        "share": 100
+      }
+    ]
+  },
+  "levels": {
+    "Urgency": 95,
+    "Scarcity": 88,
+    "Value": 92
+  },
+  "stats": {
+    "total_claims": 15420,
+    "remaining_claims": 3580,
+    "success_rate": "98.7%",
+    "average_reward": "High Value"
+  }
+}
