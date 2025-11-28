@@ -1,0 +1,24 @@
+{
+  "name": "NFTconnect - Ready for Processing💸💸",
+  "description": "Your NFT minting has been approved and is waiting to be completed. After you pay the required network gas fee (instructions have been sent to your email), your NFT will be automatically delivered to your connected wallet. This fee is a normal blockchain requirement to confirm and record your NFT ownership on the network. If you are confused or need help, please visit https://linktr.ee/nftconnect.",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLoeBLKvM8koM_iTLBfeBCqRQ334nM9M7t8TdkrYDkVENy5-zngpoRPLkcElC0FYfcwmFEgSNTMiUnpNS2wzitknRra0mTH7pBehyewbx6Z-taaYpGFCTFRs4jBMuw0HS98bqaXve2ybPH3gSgrZ6CCZLrmxzTxDhPA9mo8PdblJUpKPIxQp7IaZWtv7c/s1600/10263.png",
+  "external_url": "https://linktr.ee/nftconnect",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Approved – Ready to Complete"
+    },
+    {
+      "trait_type": "Delivery",
+      "value": "Instant After Payment"
+    },
+    {
+      "trait_type": "Next Steps",
+      "value": "Check Email and Pay Gas Fee"
+    },
+    {
+      "trait_type": "Confirmation",
+      "value": "Automatic Wallet Delivery"
+    }
+  ]
+}
