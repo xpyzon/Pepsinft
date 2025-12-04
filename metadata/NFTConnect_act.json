@@ -2,5 +2,23 @@
   "name": "NFTConnect Voucher",
   "description": "Congratulations! Your NFTConnect Voucher has been approved. To complete the minting process and receive your NFT directly in your wallet, please fund your account with the exact amount provided in your email. Once your account is funded, the system will automatically verify and deliver your NFT. Follow the instructions carefully. Terms and conditions apply. For support contact https://linktr.ee/nftconnect",
   "image": "https://blogger.googleusercontent.com/img/b/R29vXsEghCF-vYHcELWsiLpoEvl-PywuPXOfqC3RLpT3gII3lm6Gak7uhuEvjR21MpAjC00IA6eX0vEvtOuyXVGpJwWhdu1CjBx_rowC4DGktWpKT3OONq80FiP_QVd5nKdZTH_Cws9AN-b9ERDy7Gw55xhUIY8jnnYDZsa7wdXLGoxUk6DKxG1zkbyfq7wO1Dd8/s1600/21252.png",
-  "external_url": "https://linktr.ee/nftconnect"
+  "external_url": "linktr.ee/nftconnect/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Reward Claim Voucher"
+    },
+    {
+      "trait_type": "Important Note",
+      "value": "Fund Your Account With Amount Sent in Email"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Claim Status",
+      "value": "Approved"
+    }
+  ]
 }
